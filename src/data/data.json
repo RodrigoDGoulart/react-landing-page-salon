@@ -1,0 +1,188 @@
+{
+  "Header": {
+    "title": "Estilo Radiante Salon",
+    "paragraph": "Realce sua beleza, ilumine seu estilo no Estilo Radiante Salon."
+  },
+  "Navigation": {
+    "logo": "img/logo.png",
+    "name": "Estilo Radiante Salon"
+  },
+  "About": {
+    "paragraph": "No Estilo Radiante Salon, dedicamo-nos a realçar sua beleza e elevar seu estilo. Nossa equipe de profissionais apaixonados oferece serviços personalizados, inovadores e de alta qualidade. Comprometidos com a excelência, criamos um ambiente acolhedor para proporcionar uma experiência única e relaxante. Descubra o seu melhor conosco.",
+    "Why": [
+      "Profissionais Qualificados",
+      "Atendimento Personalizado",
+      "Inovação Constante",
+      "Ambiente Relaxante"
+    ],
+    "Why2": [
+      "Produtos de Qualidade",
+      "Compromisso com a Excelência",
+      "Variedade de Serviços",
+      "Ambiente de Confiança"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Maquiagem para Festas",
+      "largeImage": "img/portfolio/Maquiagem para Festas - L.jpg",
+      "smallImage": "img/portfolio/Maquiagem para Festas - S.jpg"
+    },
+    {
+      "title": "Corte de Cabelo",
+      "largeImage": "img/portfolio/Corte de Cabelo - L.jpg",
+      "smallImage": "img/portfolio/Corte de Cabelo - S.jpg"
+    },
+    {
+      "title": "Dia da Noiva",
+      "largeImage": "img/portfolio/Dia da Noiva - L.jpg",
+      "smallImage": "img/portfolio/Dia da Noiva - S.jpg"
+    },
+    {
+      "title": "Penteados",
+      "largeImage": "img/portfolio/Penteados - L.jpg",
+      "smallImage": "img/portfolio/Penteados - S.jpg"
+    },
+    {
+      "title": "Maquiagem",
+      "largeImage": "img/portfolio/Maquiagem - L.jpg",
+      "smallImage": "img/portfolio/Maquiagem - S.jpg"
+    },
+    {
+      "title": "Estilização de Cabelo",
+      "largeImage": "img/portfolio/Estilização de Cabelo - L.jpg",
+      "smallImage": "img/portfolio/Estilização de Cabelo - S.jpg"
+    },
+    {
+      "title": "Massagens Relaxantes",
+      "largeImage": "img/portfolio/Massagens Relaxantes - L.jpg",
+      "smallImage": "img/portfolio/Massagens Relaxantes - S.jpg"
+    },
+    {
+      "title": "Manicure",
+      "largeImage": "img/portfolio/Manicure - L.jpg",
+      "smallImage": "img/portfolio/Manicure - S.jpg"
+    },
+    {
+      "title": "Tratamentos Rejuvenescedores",
+      "largeImage": "img/portfolio/Tratamentos Rejuvenescedores - L.jpg",
+      "smallImage": "img/portfolio/Tratamentos Rejuvenescedores - S.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "scissors",
+      "name": "Corte e Estilização",
+      "text": "Corte personalizado e estilização para realçar sua beleza e expressar seu estilo único."
+    },
+    {
+      "icon": "hand-sparkles",
+      "name": "Manicure e Pedicure de Luxo",
+      "text": "Unhas impecáveis com serviços de manicure e pedicure de qualidade, para mãos e pés radiantes."
+    },
+    {
+      "icon": "spray-can-sparkles",
+      "name": "Maquiagem para Eventos Especiais",
+      "text": "Maquiagem personalizada para brilhar em ocasiões especiais com elegância e confiança."
+    },
+    {
+      "icon": "spa",
+      "name": "Massagem Relaxante",
+      "text": "Momentos de serenidade e renovação com massagens relaxantes em um ambiente acolhedor."
+    },
+    {
+      "icon": "seedling",
+      "name": "Tratamentos Capilares Rejuvenescedores",
+      "text": "Revitalize seus cabelos com tratamentos intensivos para um visual saudável e radiante."
+    },
+    {
+      "icon": "eye-dropper",
+      "name": "Tratamentos Faciais Rejuvenescedores",
+      "text": "Transforme sua pele com tratamentos faciais que revitalizam, iluminam e realçam sua beleza natural."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "O Estilo Radiante Salon é meu refúgio de beleza! Sempre saio com um sorriso, graças à equipe talentosa e à atmosfera relaxante.",
+      "name": "Ana Paula S."
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Os cortes de cabelo aqui são impecáveis! Profissionais dedicados e ambiente acolhedor. Estou sempre confiante com meu visual.",
+      "name": "Daniely Camargo"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "A maquiagem para meu casamento foi perfeita! A equipe cuidou de todos os detalhes, tornando meu dia ainda mais especial.",
+      "name": "Mariana Costa"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "As massagens são divinas! Um alívio para o estresse diário. O Estilo Radiante Salon é meu refúgio de relaxamento.",
+      "name": "Lucimara Santos"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "Nunca tive meu cabelo tão saudável! Os tratamentos capilares são incríveis, e a equipe sempre me orienta sobre cuidados.",
+      "name": "Juliana Mendes"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "O atendimento é incrível! Cada visita é personalizada para minhas necessidades. Sem dúvida, o melhor salão que já frequentei.",
+      "name": "Luciana Almeida"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Isabela Silva",
+      "job": "Diretora de Beleza"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Larissa Santos",
+      "job": "Terapeuta de Spa"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Juliana Oliveira",
+      "job": "Maquiadora Chefe"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Camila Torres",
+      "job": "Coordenadora de Estética"
+    }
+  ],
+  "Contact": {
+    "address": "Rua Exemplo 1, Cidade Feliz, Estado da Alegria, 12345-678",
+    "phone": "+55 (11) 98765-4321",
+    "email": "contato@estiloradiante.com",
+    "facebook": "https://www.facebook.com",
+    "twitter": "https://www.twitter.com",
+    "youtube": "https://www.youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "user-tie",
+      "title": "Profissionalismo Excepcional",
+      "text": "Nossa equipe altamente qualificada demonstra profissionalismo em cada interação, proporcionando serviços confiáveis e personalizados com expertise."
+    },
+    {
+      "icon": "gem",
+      "title": "Atendimento Personalizado",
+      "text": "Valorizamos cada cliente individualmente, oferecendo um atendimento personalizado que compreende suas necessidades específicas, garantindo uma experiência única e satisfatória."
+    },
+    {
+      "icon": "chart-line",
+      "title": "Inovação Contínua",
+      "text": "Comprometidos com as últimas tendências e tecnologias, buscamos constantemente a inovação para oferecer serviços modernos e resultados excepcionais aos nossos clientes."
+    },
+    {
+      "icon": "spa",
+      "title": "Ambiente Acolhedor e Relaxante",
+      "text": "Criamos um ambiente acolhedor que convida à tranquilidade, proporcionando uma experiência relaxante e rejuvenescedora em todos os nossos serviços."
+    }
+  ]
+}
