@@ -5,9 +5,9 @@ export const Team = (props) => {
     <div id="team" className="text-center">
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>Nosso equipe</h2>
+          <h2>Nossa equipe</h2>
           <p>
-          Profissionais apaixonados e qualificados no Estilo Radiante Salon oferecem serviços personalizados, inovadores e especializados em beleza, garantindo satisfação única.
+            Profissionais apaixonados e qualificados no Estilo Radiante Salon oferecem serviços personalizados, inovadores e especializados em beleza, garantindo satisfação única.
           </p>
         </div>
         <div id="row">
